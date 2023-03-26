@@ -4,7 +4,7 @@
 
 I am an undergrad student studying Computer Science and Engineering (CSE) from Indian Institute of Information Technology, Kerala (IIIT-Kottayam). I have deep passion towards Data Science and aspire to be a Data Scientist and Computer Scientist. 
 
-I am currently working on Full stack projects which includes advanced Machine Learning(ML), Artificial Neural Networks(ANN), Convolution Neural Networks(CNN), React Native, MongoDB, Jera, Firebase and keycloak.
+I am currently working on Full stack projects which includes advanced Machine Learning (ML), Artificial Neural Networks (ANN), Convolution Neural Networks (CNN), React Native, MongoDB, Jera, Firebase and keycloak.
 
 I have deep working knowledge of modern Full-Stack development and Data Science.
 
@@ -65,9 +65,12 @@ All coding projects are built from the ground up, from detailed planning and des
 
 <img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
-<br />          
+===
+
+<br />
+
  As a Data Science enthusiast I have also worked with
- * 1. `Matplotlib` 
+ * 1. `Matplotlib`
  * 2. `SciKit-learn`
  * 3. `Scipy`
 
