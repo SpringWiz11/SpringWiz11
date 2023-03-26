@@ -10,4 +10,6 @@ I have deep working knowledge of modern Full-Stack development and Data Science.
 
 All coding projects are built from the ground up, from detailed planning and designed engineering all the way to solve real-life problems with modern computation. 
 
- 
+ ### Languages
+
+ <img align="left alt="Python width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
