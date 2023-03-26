@@ -34,13 +34,13 @@ All coding projects are built from the ground up, from detailed planning and des
 
 <img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<br/>  
+<br/>
 
  ### Tools
 
 <br />
 
- #### Data Science
+ #### Data_Science
 
 <br />
 
