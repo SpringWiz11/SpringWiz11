@@ -8,11 +8,11 @@ I am currently working on Full stack projects which includes advanced Machine Le
 
 I have deep working knowledge of modern Full-Stack development and Data Science.
 
-All coding projects are built from the ground up, from detailed planning and designed engineering all the way to solve real-life problems with modern computation. 
+All coding projects are built from the ground up, from detailed planning and designed engineering all the way to solve real-life problems with modern computation.
 
-<br/>
+<br>
 
- ### Languages
+# Languages
 
 <img align="left" alt="C" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 
@@ -32,47 +32,43 @@ All coding projects are built from the ground up, from detailed planning and des
 
 <img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-<img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
-<br/>
+<br>
+<br>
 
- ### Tools
+# Tools
 
-<br />
+<br>
 
- #### Data_Science
+* **Data Science**
 
-<br />
-
+<br>
 <img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-
 
 <img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 
-
 <img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 
-
 <img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-
 
 <img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"
 />
 
-
 <img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 
+<img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
 
-<img align="left" alt="Javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<br>
+<br>
+<br>
 
-===
 
-<br />
-
- As a Data Science enthusiast I have also worked with
- * 1. `Matplotlib`
- * 2. `SciKit-learn`
- * 3. `Scipy`
+ As a Data Science enthusiast I have also worked with:-
+ 
+ > * 1. `Matplotlib`
+ > * 2. `SciKit-learn`
+ > * 3. `Scipy`
 
 
 
@@ -80,7 +76,6 @@ All coding projects are built from the ground up, from detailed planning and des
           
           
           
-
 
           
 
