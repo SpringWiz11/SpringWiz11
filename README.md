@@ -1,16 +1,13 @@
-### Hi there 👋
+# INFINITE-BINARYLOOP
 
-<!--
-**infinite-binaryloop/infinite-binaryloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Software Craftsman (Data Scientist/ Developer/ Photographer)`**
 
-Here are some ideas to get you started:
+I am an undergrad student studying Computer Science and Engineering (CSE) from Indian Institute of Information Technology, Kerala (IIIT-Kottayam). I have deep passion towards Data Science and aspire to be a Data Scientist and Computer Scientist. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on Full stack projects which includes advanced Machine Learning(ML), Artificial Neural Networks(ANN), Convolution Neural Networks(CNN), React Native, MongoDB, Jera, Firebase and keycloak.
+
+I have deep working knowledge of modern Full-Stack development and Data Science.
+
+All coding projects are built from the ground up, from detailed planning and designed engineering all the way to solve real-life problems with modern computation. 
+
+ 
