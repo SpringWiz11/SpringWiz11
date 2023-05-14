@@ -92,6 +92,9 @@ All coding projects are built from the ground up, from detailed planning and des
             
 <img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+<br/>
+<br/>
+<br/>
 
 #### Project Management
 
