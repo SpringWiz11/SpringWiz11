@@ -1,12 +1,12 @@
 # INFINITE-BINARYLOOP
 
-**`Software Craftsman (Data Scientist/ Developer/ Photographer)`**
+**`Software Craftsman (Cloud Architect/ Developer/ Photographer)`**
 
-I am an undergrad student studying Computer Science and Engineering (CSE) from Indian Institute of Information Technology, Kerala (IIIT-Kottayam). I have deep passion towards Data Science and aspire to be a Data Scientist and Computer Scientist. 
+I am an undergrad student studying Computer Science and Engineering (CSE) from Indian Institute of Information Technology, Kerala (IIIT-Kottayam). I have deep passion towards cloud and aspire to be a cloud architect. 
 
-I am currently working on Full stack projects which includes advanced Machine Learning (ML), Artificial Neural Networks (ANN), Convolution Neural Networks (CNN), React Native, MongoDB, Jera, Firebase and keycloak.
+I am currently working on Full stack projects which includes advanced cloud computing, Software-as-a-service, Docker, AWS, Kubernetes, React Native, MongoDB, Firebase and keycloak.
 
-I have deep working knowledge of modern Full-Stack development and Data Science.
+I have deep working knowledge of modern Full-Stack development and cloud computing.
 
 All coding projects are built from the ground up, from detailed planning and designed engineering all the way to solve real-life problems with modern computation.
 
@@ -104,6 +104,11 @@ All coding projects are built from the ground up, from detailed planning and des
 <img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
 
 <img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
+
+<img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
+
+
+
 
 
 
