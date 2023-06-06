@@ -2,11 +2,11 @@
 
 **`Software Craftsman (Cloud Architect/ Developer/ Photographer)`**
 
-I am an undergrad student studying Computer Science and Engineering (CSE) from Indian Institute of Information Technology, Kerala (IIIT-Kottayam). I have deep passion towards cloud and aspire to be a cloud architect. 
+I am an undergrad student studying Computer Science and Engineering (CSE) from Indian Institute of Information Technology, Kerala (IIIT-Kottayam). I have deep passion towards data and aspire to be a data scientist. 
 
-I am currently working on Full stack projects which includes advanced cloud computing, Software-as-a-service, Docker, AWS, Kubernetes, React Native, MongoDB, Firebase and keycloak.
+I am currently working on Full stack projects which includes advanced Machine Learning, CNN, ANN and mysql.
 
-I have deep working knowledge of modern Full-Stack development and cloud computing.
+I have deep working knowledge of modern Full-Stack development and Data Science.
 
 All coding projects are built from the ground up, from detailed planning and designed engineering all the way to solve real-life problems with modern computation.
 
