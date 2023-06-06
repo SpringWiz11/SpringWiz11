@@ -1,6 +1,6 @@
 # INFINITE-BINARYLOOP
 
-**`Software Craftsman (Cloud Architect/ Developer/ Photographer)`**
+**`Software Craftsman (Data Scientist/ Developer/ Photographer)`**
 
 I am an undergrad student studying Computer Science and Engineering (CSE) from Indian Institute of Information Technology, Kerala (IIIT-Kottayam). I have deep passion towards data and aspire to be a data scientist. 
 
